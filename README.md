@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:006888,100:089E99&text=YERIEL%20RYU&fontColor=ffffff&height=163&animation=twinkling&fontAlign=82&fontAlignY=35&fontSize=45)
 - 👋 Hi, I’m @YERIEL-RYU
 
 - 🌱 I’m currently learning react, django.
