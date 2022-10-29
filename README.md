@@ -26,13 +26,16 @@
   <h3>🎱 USE TOOL </h3>
 <br />
 
-<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/CodePen-006888?style=flat-square&logo=CodePen&logoColor=white"/> <img src="https://img.shields.io/badge/CodeSandbox-006888?style=flat-square&logo=CodeSandbox&logoColor=white"/> <img src="https://img.shields.io/badge/Sketch-F7B500?style=flat-square&logo=Sketch&logoColor=white"/>
+<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=Bitbucket&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/CodePen-006888?style=flat-square&logo=CodePen&logoColor=white"/> <img src="https://img.shields.io/badge/CodeSandbox-006888?style=flat-square&logo=CodeSandbox&logoColor=white"/> <img src="https://img.shields.io/badge/Sketch-F7B500?style=flat-square&logo=Sketch&logoColor=white"/>
 
   <br />
   
   <h3>🎱 It's YERIEL</h3>
   <a href="https://instagram.com/r_0o0_j">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> 
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=TiStory&logoColor=white"/> 
   </a>
 <br />
 
