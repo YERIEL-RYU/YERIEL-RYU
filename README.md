@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:006888,100:089E99&text=YERIEL%20RYU&fontColor=ffffff&height=163&animation=twinkling&fontAlign=82&fontAlignY=35&fontSize=45)
+
 
 
 <div align='center'>
@@ -34,7 +34,7 @@
   <a href="https://instagram.com/r_0o0_j">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> 
   </a>
-  <a>
+  <a href='https://r-0o0-j.tistory.com'>
     <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=TiStory&logoColor=white"/> 
   </a>
 <br />
